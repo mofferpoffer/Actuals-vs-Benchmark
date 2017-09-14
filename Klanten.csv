@@ -1,0 +1,22 @@
+# nr: klantnummer
+# naam: voornaam
+# gesl: geslacht
+# gebdat: geboortedatum
+# wpl: woonplaats code
+# vooropl: vooropleiding
+# tel: telefoon
+#
+nr,naam,gesl,gebdat,wpl,vooropl,tel
+1004,tinus,m,26-01-1983,nue,VO,06-52477478
+1005,henk,m,04-12-1961,nue,HBO,06-49945368
+1006,lars,m,06-07-1967,ehv,VO,06-42766537
+1009,sem,m,18-10-1958,vhv,VO,06-87649181
+1012,tim,m,05-12-1992,vhv,WO,06-58981129
+1014,saar,v,23-09-1990,vhv,VO,06-95945784
+1016,liv,v,21-10-1962,hmd,WO,06-81487208
+1019,klara,v,26-07-1962,nue,MBO,06-26209998
+1020,rinus,m,22-06-1990,ehv,VO,06-79281215
+1021,tess,v,12-08-1980,nue,VO,06-18981603
+1022,gerrit,m,03-06-1973,hmd,VO,06-53836540
+1026,lisa,v,15-08-1958,ehv,VO,06-42201574
+1029,lotte,v,27-10-1969,hmd,VO,06-38290692
